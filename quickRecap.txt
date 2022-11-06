@@ -1,0 +1,6 @@
+Reducer kontrolira state v slice-u
+Kratica "rafce" za hitro sestavo komponente
+useSelector hook uporabimo za extractanje podatkov iz store state-a z selector funkcijo
+useDispatch hook uporabimo za uporabljanje reducerjev v kodi
+State ki ga vračamo iz reducerja postane nov state
+Payload je vrednost ki pošljemo nazaj reducerju
